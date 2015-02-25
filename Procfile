@@ -1,0 +1,1 @@
+web: gunicorn techex.wsgi --log-file -
